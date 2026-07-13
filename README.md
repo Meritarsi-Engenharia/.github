@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/logo-meritarsi.png" alt="Meritarsi Engenharia" width="640">
+<img src="/assets/logo-meritarsi.png" alt="Meritarsi Engenharia" width="400">
 
 <br>
 
