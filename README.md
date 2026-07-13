@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/logo-meritarsi.png" alt="Meritarsi Engenharia" width="460">
+<img src="../assets/logo-meritarsi.png" alt="Meritarsi Engenharia" width="640">
 
 <br>
 
@@ -130,67 +130,6 @@ Acessibilidade Governança      Experiência do usuário
 ```
 
 Aplicamos organização de código, documentação, controle de versão, revisão de mudanças e separação adequada entre ambientes e informações sensíveis.
-
----
-
-## Design System Meritarsi
-
-A identidade visual da Meritarsi transmite solidez, energia, precisão e confiança.
-
-<table>
-<tr>
-<td align="center"><strong>Meritarsi Red</strong><br><code>#D32F3F</code><br>Energia, presença e decisão</td>
-<td align="center"><strong>Meritarsi Green</strong><br><code>#008F3D</code><br>Engenharia, equilíbrio e progresso</td>
-<td align="center"><strong>Graphite</strong><br><code>#1F2937</code><br>Solidez, tecnologia e contraste</td>
-<td align="center"><strong>Cloud</strong><br><code>#F7F8FA</code><br>Leveza, clareza e organização</td>
-</tr>
-</table>
-
-### Diretrizes de interface
-
-- **Visual:** corporativo, limpo e contemporâneo;
-- **Hierarquia:** títulos fortes, leitura objetiva e boa distribuição de espaços;
-- **Componentes:** consistentes, funcionais e acessíveis;
-- **Linguagem:** técnica, segura, clara e profissional;
-- **Experiência:** simples para o usuário e robusta na operação.
-
-### Tipografia recomendada
-
-- **Títulos:** Inter, Manrope ou Montserrat;
-- **Textos:** Inter, Source Sans 3 ou system UI;
-- **Dados e código:** JetBrains Mono ou IBM Plex Mono.
-
-<details>
-<summary><strong>Tokens institucionais sugeridos</strong></summary>
-
-```css
-:root {
-  --meritarsi-red: #D32F3F;
-  --meritarsi-green: #008F3D;
-
-  --graphite-950: #111827;
-  --graphite-800: #1F2937;
-  --graphite-600: #4B5563;
-
-  --cloud-100: #F7F8FA;
-  --cloud-200: #EEF1F4;
-  --white: #FFFFFF;
-
-  --success: #15803D;
-  --warning: #B45309;
-  --danger: #B91C1C;
-  --info: #0369A1;
-
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 18px;
-
-  --shadow-sm: 0 2px 8px rgba(17, 24, 39, 0.08);
-  --shadow-md: 0 12px 30px rgba(17, 24, 39, 0.12);
-}
-```
-
-</details>
 
 ---
 
